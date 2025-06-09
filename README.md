@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there! 👋 I'm Shourya Pant
 
-<!--
-**simply-a-coder/simply-a-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I am currently pursuing **B.Tech in Computer Science Engineering (CSE)** with a specialization in **AI/ML**. Currently in my 3rd year, I am deeply passionate about technology, innovation, and creating impactful solutions.
 
-Here are some ideas to get you started:
+## 💻 What I Do
+- **AI/ML Enthusiast**: I work with **fine-tuning LLMs** and building **agentic AIs**.
+- **Full-Stack Developer**: Crafting **MERN stack** websites with a focus on functionality and design.
+- **Python Developer**: Proficient in creating scalable systems and ensuring smooth deployments.
+- **Freelancer**: Passionate about working remotely and collaborating on exciting projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 My Mission
+My goal is to create **cool websites** and innovative software solutions while embracing the flexibility of **remote work** and **freelancing**.
+
+## ⚽ Hobbies & Interests
+- **Football** lover 🏃‍♂️⚽
+- **Avid Reader** 📚
+- **Coffee Enthusiast** ☕ (I *really* love coffee!)
+
+## 🌐 Let's Connect
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/shourya-pant/) for collaboration, networking, or a friendly chat.
+
+---
+
+### **📢 Fun Fact**
+I believe that coffee powers creativity and innovation! 😄
