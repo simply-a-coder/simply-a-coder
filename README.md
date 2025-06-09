@@ -29,7 +29,7 @@ Hi, I'm Shourya!
 🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: Python, TypeScript 
 🚩 Interested in Full Stack, Artificial Intelligence and Agentic AI
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/18NPDQI4W30QO-UNoDceUmDVQdJiC9iDp/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
 
@@ -37,7 +37,7 @@ Hi, I'm Shourya!
 <p align="center">
 	<a href="mailto:pantshourya987@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/shourya-pant/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://github.com/simply-a-coder"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://github.com/Shourya-pant"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ## 🛠️ My Favorite Tools
@@ -80,7 +80,7 @@ Hi, I'm Shourya!
 
 
 ## <a href="https://github.com/simply-a-coder"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
-
+<!--
 <br/>
 <summary><b>⚡ Shourya's Stats</b></summary>
 <br/>
@@ -92,7 +92,7 @@ Hi, I'm Shourya!
 	<br/>
 </p>
 <br/>
-<!--
+
 <summary><b>⚡ Activity graph</b></summary>
 <br/>
 <p align="center">
@@ -121,9 +121,9 @@ Hi, I'm Shourya!
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about front-end web development, feel free to <a href="mailto:bouaskaoun.mohammed@gmail.com">contact me through email</a> me.
+If you have any questions about front-end web development, feel free to <a href="mailto:pantshourya987@gmail.com">contact me through email</a> me.
 
-You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> or <a href="https://www.linkedin.com/in/bouaskaoun/">LinkedIn</a> to deploy your machine learning project on web.
+You can hire me as a freelancer on <a href="https://www.linkedin.com/in/shourya-pant/">LinkedIn</a> to deploy your machine learning project on web.
 
   </td>
   <td width="50%" valign="top">
@@ -141,6 +141,6 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> o
 
 ------
 
-[Bouaskaoun](https://github.com/Bouaskaoun)
+[Shourya](https://github.com/simply-a-coder)
 
 Last Edited on: 19/07/2022
